@@ -1,4 +1,4 @@
-## January 24 in class exercise
+## January 22 in class exercise
 
 1. Open repository in codespaces
 2. Create a branch of this repository. Use your first name as the name of the branch.  You may use the UI, or this command `git checkout -b YOUR_NAME`
